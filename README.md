@@ -87,5 +87,5 @@ My vision for the Stellar Payment Platform is to create a user-friendly and secu
 
 A vibrant planet illuminated by neon lights, showcasing holographic blockchain transactions in the sky. Sleek robots interact with digital interfaces, managing decentralized energy systems. Orbiting satellites transmit data, creating a seamless web of information, while distant galaxies shimmer in the background.
 
-![icon]()
+![icon](icon.jpeg)
    
