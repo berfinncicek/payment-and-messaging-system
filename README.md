@@ -16,6 +16,9 @@ The Stellar Payment Platform is a blockchain-based payment solution implemented 
 
 ![Frontend Screenshot](app_image.jpg) <!-- Update with your image path -->
 
+## Vision
+My vision for the Stellar Payment Platform is to create a user-friendly and secure payment solution that empowers individuals and businesses to transact freely on the blockchain. By harnessing the capabilities of the Stellar network, I aim to enhance financial inclusion and simplify cross-border transactions, making it easier for users to manage their finances and engage in the global economy. I believe this platform can revolutionize the way we think about payments, offering a transparent and efficient alternative to traditional systems.
+
 ## Smart Contract Features
 
 ### PaymentContract
@@ -59,7 +62,8 @@ The Stellar Payment Platform is a blockchain-based payment solution implemented 
 2. Click "Schedule Payment".
 3. Sets up a recurring payment.
 
-## Setup Instructions
+## How to Install the Project
+###  Setup Instructions
 
 1. Clone the repository:
    ```bash
