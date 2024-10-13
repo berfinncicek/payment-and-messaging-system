@@ -51,11 +51,11 @@ The Stellar Payment Platform is a blockchain-based payment solution implemented 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/stellar-payment-platform.git
+   https://github.com/berfinncicek/payment-and-messaging-system.git
 
 2. Navigate to the project directory:
    ```bash
-   cd stellar-payment-platform
+   cd payment-and-messaging-system
 
 3. Install dependencies:
    ```bash
