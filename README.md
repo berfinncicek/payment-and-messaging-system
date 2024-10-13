@@ -65,6 +65,4 @@ The Stellar Payment Platform is a blockchain-based payment solution implemented 
 
 5. Start the project:
    ```bash
-   npm start
-   
-    
+   npm start 
