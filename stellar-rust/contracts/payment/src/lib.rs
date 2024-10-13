@@ -136,4 +136,4 @@ impl PaymentContract {
         storage.set(&(from, schedule_id), &transaction);
         Ok(())
     }
-}
+} 
