@@ -3,8 +3,11 @@
 
 ## About Me
 Name: Berfin Zeliha Çiçek
+
 Background: I am interested in developing blockchain technologies.
+
 Skills: Stellar Blockchain, Rust, Node.js, React, and Motoko.
+
 Project: A blockchain-based payment solution implemented on the Stellar network.
 
 
