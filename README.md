@@ -2,7 +2,7 @@
 
 The Stellar Payment Platform is a blockchain-based payment solution implemented on the Stellar network. It allows users to perform secure XLM transactions, check balances, view transaction history, and schedule recurring payments. The frontend application is built using **React** and **Node.js** to provide a seamless user experience.
 
-![Frontend Screenshot](path/to/your/image) <!-- Update with your image path -->
+![Frontend Screenshot](app_image.jpg) <!-- Update with your image path -->
 
 ## Smart Contract Features
 
